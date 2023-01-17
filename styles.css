@@ -52,7 +52,10 @@ img {
 /* ======================ACTIVITIES SECTION =============================== */
 #activities-section {
     min-height:378px;
-    padding:30px
+    max-width:1000px;
+    padding:30px;
+    display:block;
+    margin: 0 auto;
 }
 
 #activities-section h3 {
